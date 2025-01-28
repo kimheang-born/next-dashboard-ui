@@ -1,0 +1,15 @@
+node_modules/
+public/
+storage/
+logs/
+cache/
+config/
+.env
+vendor
+dist/
+build/
+README.md
+package-lock.json
+composer.json
+composer.lock
+docker-compose.yml
